@@ -19,3 +19,14 @@ IMPORTANT BEFORE PUBLISHING
 
 DEPLOYMENT
 This is a static site. Upload the contents of this folder to a static web host such as Cloudflare Pages. The site has no build step: use the root folder as the output directory. Connect a domain you own after deployment and follow the host's DNS instructions.
+
+UPDATED BUSINESS CONTACT DETAILS
+Address: 1001 S MAIN STREET STE 500, Kalispell, MT 59901
+Phone: +13478639680
+Email: ceotricommerce@gmail.com
+
+CONTACT FORM SETUP
+The contact/request-a-quote form posts to FormSubmit (https://formsubmit.co). After deploying, submit a test inquiry and check ceotricommerce@gmail.com for FormSubmit's activation email. Confirm/activate the inbox before expecting form submissions to arrive. Then submit another test and verify receipt. FormSubmit is a third-party service; review its current terms and privacy practices before use.
+
+DEPLOYMENT
+Upload the CONTENTS of this folder to the root of your GitHub repository (index.html must be at repository root), commit changes, then allow Cloudflare to redeploy.
